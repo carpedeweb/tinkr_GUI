@@ -20,5 +20,4 @@ def main_account_screen():
 
     main_screen.mainloop()  # starts the GUI
 
-
-    main_account_screen()   # call the main_account_screen()
+main_account_screen()   # call the main_account_screen()
